@@ -1,0 +1,8 @@
+Moscow Antalia 467
+Moscow Istambul 873
+Moscow Saint-Petersburg 98
+Saint-Petersburg Sochi 24
+Sochi Moscow 57
+Saint-Petersburg Antalia 67
+Antalia Moscow 1547
+Antalia Sochi 257
